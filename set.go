@@ -1,4 +1,4 @@
-package core
+package gocore
 
 var void struct{}
 

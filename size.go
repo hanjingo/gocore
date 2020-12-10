@@ -1,4 +1,4 @@
-package core
+package gocore
 
 type Size int64
 
