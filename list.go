@@ -26,7 +26,6 @@ import (
  * PushFrontList(other *cl.List)
  * Remove(e *cl.Element) interface{}
  * RemoveEqual(v interface{})
- * Unique()
 **/
 
 type List struct {
